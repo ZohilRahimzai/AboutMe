@@ -3,8 +3,8 @@
     border: 2px solid gray;
     width: 300px;
     height: 200px;
-    margin-left: auto;
-    margin-right: auto;
+    margin-left: 500px;
+    margin-right: 400px;
     text-align: center;
     
 }
@@ -41,3 +41,73 @@
     
 }
 
+#sdiv {
+
+   
+
+    border: 2px rgba(217, 215, 215, 0.7) solid;
+    border-radius: 30px;
+    background-color: rgba(197, 197, 197, 0.292);
+    margin-right: 400px;
+    margin-left: 400px;
+    width: 500px;
+    height: 230px;
+
+    margin-top: 30px;
+    margin-bottom: 202px;
+
+    
+}
+
+#name {
+
+
+     font-family: cursive;
+     font-size: 25px;
+     margin-left: 10px;
+
+     
+
+
+
+}
+
+#img1 {
+
+  
+    
+    width: 190px;
+    height: 130px;
+
+    padding-top: -180px;
+    padding-left: 10px;
+
+    border: 1px rgba(255, 255, 255, 0) solid;
+    border-radius: 50%;
+    
+
+}
+
+
+#hone {
+
+
+    font-size: 15px;
+    margin-left: 210px;
+    margin-top: -140px;
+
+
+
+
+}
+
+
+a {
+
+    color: rgb(4, 97, 107);
+    text-decoration: none;
+
+
+
+
+}
