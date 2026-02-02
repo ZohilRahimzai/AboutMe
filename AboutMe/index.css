@@ -3,9 +3,9 @@
     border: 2px solid gray;
     width: 300px;
     height: 200px;
-    display: flex;
     margin-left: auto;
     margin-right: auto;
+    text-align: center;
     
 }
 
@@ -13,9 +13,31 @@
 
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-size: 20px;
-    text-align: center;
+   
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+#htwo {
+
+
+    font-size: 18px;
 
 
 
+}
+
+
+
+#btnone  {
+
+    background-color: rgba(219, 215, 215, 0.26);
+    padding-left: 10px;
+    padding-left: 10px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    border-radius: 10px;
 
 }
