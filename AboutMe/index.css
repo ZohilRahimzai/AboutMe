@@ -33,11 +33,38 @@
 
 #btnone  {
 
-    background-color: rgba(219, 215, 215, 0.26);
+    background-color: rgba(219, 215, 215, 0.596);
     padding-left: 10px;
     padding-left: 10px;
     padding-top: 6px;
     padding-bottom: 6px;
     border-radius: 10px;
+
+}
+
+
+#sdiv {
+
+
+    border: 2px solid gray;
+    width: 1300px;
+    height: 300px;
+    margin-left: 20px;
+    margin-right: 20px;
+    text-align: center;
+
+    margin-top: 10px;
+    
+
+
+}
+
+
+#imgone {
+
+    width: 220px;
+    height: 180px;
+
+
 
 }
